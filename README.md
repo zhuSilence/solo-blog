@@ -10,7 +10,9 @@ ziyou 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://zxsilence.cn:29090/hello-solo)
+* [我在 GitHub 上的开源项目](http://home.zxsilence.cn:29090/my-github-repos)
+* [我与微笑哥以及 Java 极客技术的前世今生](http://home.zxsilence.cn:29090/articles/2019/10/06/1570336005570.html)
+* [世界，你好！](http://home.zxsilence.cn:29090/hello-solo)
 
 
 
