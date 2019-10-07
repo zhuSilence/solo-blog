@@ -2,7 +2,7 @@
 ziyou 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">技术人生 X 人生技术</h4>
 <p align="center"><a title="ziyou 的个人博客" target="_blank" href="https://github.com/zhuSilence/solo-blog"><img src="https://img.shields.io/github/last-commit/zhuSilence/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zhuSilence/solo-blog"><img src="https://img.shields.io/github/repo-size/zhuSilence/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -33,6 +33,9 @@ ziyou 的个人博客
 
 ### 热门
 
+* [The 10th Week of ARTS:206-ReverseLinkedList](http://home.zxsilence.cn:29090/articles/2018/10/14/1570340347519.html)
+* [常用算法笔记](http://home.zxsilence.cn:29090/articles/2018/11/02/1570340339479.html)
+* [个人博客Google AdSense接入](http://home.zxsilence.cn:29090/articles/2018/09/15/1570340343350.html)
 * [投资自己永远是最正确的事](http://home.zxsilence.cn:29090/articles/2017/11/03/1570340334130.html)
 * [MySQL int类型主键超出限制](http://home.zxsilence.cn:29090/articles/2017/07/15/1570340334400.html)
 * [记一次与Kafka大神的交流](http://home.zxsilence.cn:29090/articles/2017/10/27/1570340334613.html)
@@ -50,13 +53,12 @@ ziyou 的个人博客
 * [IDEA远程调试配置](http://home.zxsilence.cn:29090/articles/2017/03/29/1570340338081.html)
 * [Kafka多线程消费多个topic案例](http://home.zxsilence.cn:29090/articles/2017/05/29/1570340338307.html)
 * [物理机与虚拟机共享文件夹](http://home.zxsilence.cn:29090/articles/2017/01/08/1570340338523.html)
-* [静态资源文件Hash缓存maven插件](http://home.zxsilence.cn:29090/articles/2017/07/31/1570340338735.html)
-* [Linux的rm -rf](http://home.zxsilence.cn:29090/articles/2017/02/19/1570340338964.html)
-* [Redis批量导入数据——Pipe](http://home.zxsilence.cn:29090/articles/2017/03/27/1570340339190.html)
 
 ### 热议
 
-* [常用算法笔记](http://home.zxsilence.cn:29090/articles/2018/11/02/1570340339479.html)
+* [静态资源文件Hash缓存maven插件](http://home.zxsilence.cn:29090/articles/2017/07/31/1570340338735.html)
+* [Linux的rm -rf](http://home.zxsilence.cn:29090/articles/2017/02/19/1570340338964.html)
+* [Redis批量导入数据——Pipe](http://home.zxsilence.cn:29090/articles/2017/03/27/1570340339190.html)
 * [The 14th Week of ARTS:LinkedListCycle_142](http://home.zxsilence.cn:29090/articles/2018/11/25/1570340339742.html)
 * [The 5th Week of ARTS:8-String to Integer (atoi)](http://home.zxsilence.cn:29090/articles/2018/07/28/1570340340057.html)
 * [The 9th Week of ARTS:16-3Sum Closest](http://home.zxsilence.cn:29090/articles/2018/09/01/1570340340370.html)
@@ -67,7 +69,6 @@ ziyou 的个人博客
 * [The 12th Week of ARTS:LinkedListCycle_141](http://home.zxsilence.cn:29090/articles/2018/11/11/1570340342473.html)
 * [The 11th Week of ARTS:Sort List_148](http://home.zxsilence.cn:29090/articles/2018/11/04/1570340342764.html)
 * [The 8th Week of ARTS:144-Binary Tree Preorder Traversal](http://home.zxsilence.cn:29090/articles/2018/08/21/1570340343083.html)
-* [个人博客Google AdSense接入](http://home.zxsilence.cn:29090/articles/2018/09/15/1570340343350.html)
 * [The 13th Week of ARTS:Valid Parentheses_20](http://home.zxsilence.cn:29090/articles/2018/11/18/1570340343656.html)
 * [Consul-template, Nginx实现Thrift Consul负载均衡](http://home.zxsilence.cn:29090/articles/2018/04/13/1570340344034.html)
 * [The 2nd Week Of ARTS:2-AddTwoNumbers](http://home.zxsilence.cn:29090/articles/2018/07/02/1570340344342.html)
@@ -75,7 +76,6 @@ ziyou 的个人博客
 * [2018年新年新篇章](http://home.zxsilence.cn:29090/articles/2018/01/11/1570340345493.html)
 * [Hadoop学习（一）：之虚拟机集群搭建遇到的那些坑](http://home.zxsilence.cn:29090/articles/2018/04/01/1570340345751.html)
 * [The 3rd Week of ARTS:4-Median of Two Sorted Arrays](http://home.zxsilence.cn:29090/articles/2018/07/14/1570340346034.html)
-* [The 7th Week of ARTS:94-Binary Tree Inorder Traversal](http://home.zxsilence.cn:29090/articles/2018/08/11/1570340346389.html)
 
 ---
 
