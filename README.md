@@ -34,10 +34,10 @@ ziyou 的个人博客
 ### 热门
 
 * [The 3rd Week of ARTS:4-Median of Two Sorted Arrays](http://home.zxsilence.cn:29090/articles/2018/07/14/1570340346034.html)
+* [常用算法笔记](http://home.zxsilence.cn:29090/articles/2018/11/02/1570340339479.html)
 * [The 10th Week of ARTS:206-ReverseLinkedList](http://home.zxsilence.cn:29090/articles/2018/10/14/1570340347519.html)
 * [《硅谷革命——成就苹果公司的疯狂往事》读后感二](http://home.zxsilence.cn:29090/articles/2017/10/22/1570340337252.html)
 * [物理机与虚拟机共享文件夹](http://home.zxsilence.cn:29090/articles/2017/01/08/1570340338523.html)
-* [常用算法笔记](http://home.zxsilence.cn:29090/articles/2018/11/02/1570340339479.html)
 * [The 14th Week of ARTS:LinkedListCycle_142](http://home.zxsilence.cn:29090/articles/2018/11/25/1570340339742.html)
 * [记一次线上Nginx响应超时问题](http://home.zxsilence.cn:29090/articles/2018/08/31/1570340349147.html)
 * [投资自己永远是最正确的事](http://home.zxsilence.cn:29090/articles/2017/11/03/1570340334130.html)
