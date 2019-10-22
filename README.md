@@ -41,27 +41,23 @@ ziyou（朱翔） 的个人博客
 * [基于ZK的 Dubbo-admin 与 Dubbo-monitor 搭建](http://home.zxsilence.cn:29090/articles/2019/04/09/1570340333393.html)
 * [The 10th Week of ARTS:206-ReverseLinkedList](http://home.zxsilence.cn:29090/articles/2018/10/14/1570340347519.html)
 * [2019-03-24-01读《岛上书店》有感](http://home.zxsilence.cn:29090/articles/2019/03/24/1570340331455.html)
+* [物理机与虚拟机共享文件夹](http://home.zxsilence.cn:29090/articles/2017/01/08/1570340338523.html)
 * [常用算法笔记](http://home.zxsilence.cn:29090/articles/2018/11/02/1570340339479.html)
 * [The 14th Week of ARTS:LinkedListCycle_142](http://home.zxsilence.cn:29090/articles/2018/11/25/1570340339742.html)
 * [The 9th Week of ARTS:16-3Sum Closest](http://home.zxsilence.cn:29090/articles/2018/09/01/1570340340370.html)
 * [记一次线上Nginx响应超时问题](http://home.zxsilence.cn:29090/articles/2018/08/31/1570340349147.html)
 * [2019-03-26-加入Java Geek Tech](http://home.zxsilence.cn:29090/articles/2019/03/26/1570340333874.html)
+* [MySQL int类型主键超出限制](http://home.zxsilence.cn:29090/articles/2017/07/15/1570340334400.html)
+* [网易云跟帖配置以及github.io博客配置域名](http://home.zxsilence.cn:29090/articles/2017/05/10/1570340334855.html)
+* [Spark初体验Word Count](http://home.zxsilence.cn:29090/articles/2017/05/24/1570340335178.html)
+* [FFmpeg视频解码简单使用2](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340335456.html)
 * [虚拟机中配置静态ip地址](http://home.zxsilence.cn:29090/articles/2017/03/28/1570340336965.html)
 * [《硅谷革命——成就苹果公司的疯狂往事》读后感二](http://home.zxsilence.cn:29090/articles/2017/10/22/1570340337252.html)
-* [物理机与虚拟机共享文件夹](http://home.zxsilence.cn:29090/articles/2017/01/08/1570340338523.html)
-* [2018年终总结](http://home.zxsilence.cn:29090/articles/2018/12/29/1570340345013.html)
-* [Hadoop学习（一）：之虚拟机集群搭建遇到的那些坑](http://home.zxsilence.cn:29090/articles/2018/04/01/1570340345751.html)
-* [The 15th Week of ARTS:KthLargest Element in a Stream_703](http://home.zxsilence.cn:29090/articles/2018/12/01/1570340346710.html)
-* [关于知识付费的那些事](http://home.zxsilence.cn:29090/articles/2018/05/11/1570340348510.html)
 
 ### 热议
 
 * [投资自己永远是最正确的事](http://home.zxsilence.cn:29090/articles/2017/11/03/1570340334130.html)
-* [MySQL int类型主键超出限制](http://home.zxsilence.cn:29090/articles/2017/07/15/1570340334400.html)
 * [记一次与Kafka大神的交流](http://home.zxsilence.cn:29090/articles/2017/10/27/1570340334613.html)
-* [网易云跟帖配置以及github.io博客配置域名](http://home.zxsilence.cn:29090/articles/2017/05/10/1570340334855.html)
-* [Spark初体验Word Count](http://home.zxsilence.cn:29090/articles/2017/05/24/1570340335178.html)
-* [FFmpeg视频解码简单使用2](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340335456.html)
 * [收获往往在努力背后](http://home.zxsilence.cn:29090/articles/2017/04/02/1570340335807.html)
 * [《硅谷革命——成就苹果公司的疯狂往事》读后感一](http://home.zxsilence.cn:29090/articles/2017/10/21/1570340336079.html)
 * [FFmpeg视频解码简单使用](http://home.zxsilence.cn:29090/articles/2017/01/12/1570340336388.html)
@@ -76,6 +72,10 @@ ziyou（朱翔） 的个人博客
 * [The 5th Week of ARTS:8-String to Integer (atoi)](http://home.zxsilence.cn:29090/articles/2018/07/28/1570340340057.html)
 * [Spring Cloud学习笔记（一）](http://home.zxsilence.cn:29090/articles/2018/03/17/1570340340759.html)
 * [基于Github的Webhook实现发布代码后网站自动部署](http://home.zxsilence.cn:29090/articles/2018/07/16/1570340341122.html)
+* [The 6th Week of ARTS:7-ReverseInteger And 9-PalindromeNumber](http://home.zxsilence.cn:29090/articles/2018/08/05/1570340341441.html)
+* [The 4th Week of ARTS:5-Longest Palindromic Substring](http://home.zxsilence.cn:29090/articles/2018/07/22/1570340342052.html)
+* [The 12th Week of ARTS:LinkedListCycle_141](http://home.zxsilence.cn:29090/articles/2018/11/11/1570340342473.html)
+* [The 11th Week of ARTS:Sort List_148](http://home.zxsilence.cn:29090/articles/2018/11/04/1570340342764.html)
 
 ---
 
