@@ -47,12 +47,12 @@ ziyou（朱翔） 的个人博客
 * [The 14th Week of ARTS:LinkedListCycle_142](http://home.zxsilence.cn:29090/articles/2018/11/25/1570340339742.html)
 * [The 9th Week of ARTS:16-3Sum Closest](http://home.zxsilence.cn:29090/articles/2018/09/01/1570340340370.html)
 * [记一次线上Nginx响应超时问题](http://home.zxsilence.cn:29090/articles/2018/08/31/1570340349147.html)
+* [通过Spring上下文获取指定名称的Bean](http://home.zxsilence.cn:29090/articles/2016/12/28/1570340349379.html)
 * [2019-03-26-加入Java Geek Tech](http://home.zxsilence.cn:29090/articles/2019/03/26/1570340333874.html)
 * [网易云跟帖配置以及github.io博客配置域名](http://home.zxsilence.cn:29090/articles/2017/05/10/1570340334855.html)
 * [Spark初体验Word Count](http://home.zxsilence.cn:29090/articles/2017/05/24/1570340335178.html)
 * [FFmpeg视频解码简单使用2](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340335456.html)
 * [虚拟机中配置静态ip地址](http://home.zxsilence.cn:29090/articles/2017/03/28/1570340336965.html)
-* [《硅谷革命——成就苹果公司的疯狂往事》读后感二](http://home.zxsilence.cn:29090/articles/2017/10/22/1570340337252.html)
 
 ### 热议
 
@@ -62,6 +62,7 @@ ziyou（朱翔） 的个人博客
 * [《硅谷革命——成就苹果公司的疯狂往事》读后感一](http://home.zxsilence.cn:29090/articles/2017/10/21/1570340336079.html)
 * [FFmpeg视频解码简单使用](http://home.zxsilence.cn:29090/articles/2017/01/12/1570340336388.html)
 * [心累源于没有好的设计](http://home.zxsilence.cn:29090/articles/2017/05/18/1570340336705.html)
+* [《硅谷革命——成就苹果公司的疯狂往事》读后感二](http://home.zxsilence.cn:29090/articles/2017/10/22/1570340337252.html)
 * [读书感悟系列](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340337535.html)
 * [Python学习笔记一](http://home.zxsilence.cn:29090/articles/2017/10/17/1570340337807.html)
 * [IDEA远程调试配置](http://home.zxsilence.cn:29090/articles/2017/03/29/1570340338081.html)
@@ -75,7 +76,6 @@ ziyou（朱翔） 的个人博客
 * [The 6th Week of ARTS:7-ReverseInteger And 9-PalindromeNumber](http://home.zxsilence.cn:29090/articles/2018/08/05/1570340341441.html)
 * [The 4th Week of ARTS:5-Longest Palindromic Substring](http://home.zxsilence.cn:29090/articles/2018/07/22/1570340342052.html)
 * [The 12th Week of ARTS:LinkedListCycle_141](http://home.zxsilence.cn:29090/articles/2018/11/11/1570340342473.html)
-* [The 11th Week of ARTS:Sort List_148](http://home.zxsilence.cn:29090/articles/2018/11/04/1570340342764.html)
 
 ---
 
