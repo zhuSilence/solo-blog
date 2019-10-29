@@ -43,6 +43,7 @@ ziyou（朱翔） 的个人博客
 * [基于ZK的 Dubbo-admin 与 Dubbo-monitor 搭建](http://home.zxsilence.cn:29090/articles/2019/04/09/1570340333393.html)
 * [The 10th Week of ARTS:206-ReverseLinkedList](http://home.zxsilence.cn:29090/articles/2018/10/14/1570340347519.html)
 * [通过Spring上下文获取指定名称的Bean](http://home.zxsilence.cn:29090/articles/2016/12/28/1570340349379.html)
+* [物理机与虚拟机共享文件夹](http://home.zxsilence.cn:29090/articles/2017/01/08/1571673936591.html)
 * [MySQL int类型主键超出限制](http://home.zxsilence.cn:29090/articles/2017/07/15/1570340334400.html)
 * [常用算法笔记](http://home.zxsilence.cn:29090/articles/2018/11/02/1570340339479.html)
 * [The 14th Week of ARTS:LinkedListCycle_142](http://home.zxsilence.cn:29090/articles/2018/11/25/1570340339742.html)
@@ -52,12 +53,12 @@ ziyou（朱翔） 的个人博客
 * [2019-03-26-加入Java Geek Tech](http://home.zxsilence.cn:29090/articles/2019/03/26/1570340333874.html)
 * [网易云跟帖配置以及github.io博客配置域名](http://home.zxsilence.cn:29090/articles/2017/05/10/1570340334855.html)
 * [Spark初体验Word Count](http://home.zxsilence.cn:29090/articles/2017/05/24/1570340335178.html)
-* [FFmpeg视频解码简单使用2](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340335456.html)
 
 ### 热议
 
 * [投资自己永远是最正确的事](http://home.zxsilence.cn:29090/articles/2017/11/03/1570340334130.html)
 * [记一次与Kafka大神的交流](http://home.zxsilence.cn:29090/articles/2017/10/27/1570340334613.html)
+* [FFmpeg视频解码简单使用2](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340335456.html)
 * [收获往往在努力背后](http://home.zxsilence.cn:29090/articles/2017/04/02/1570340335807.html)
 * [《硅谷革命——成就苹果公司的疯狂往事》读后感一](http://home.zxsilence.cn:29090/articles/2017/10/21/1570340336079.html)
 * [FFmpeg视频解码简单使用](http://home.zxsilence.cn:29090/articles/2017/01/12/1570340336388.html)
@@ -75,7 +76,6 @@ ziyou（朱翔） 的个人博客
 * [Spring Cloud学习笔记（一）](http://home.zxsilence.cn:29090/articles/2018/03/17/1570340340759.html)
 * [基于Github的Webhook实现发布代码后网站自动部署](http://home.zxsilence.cn:29090/articles/2018/07/16/1570340341122.html)
 * [The 6th Week of ARTS:7-ReverseInteger And 9-PalindromeNumber](http://home.zxsilence.cn:29090/articles/2018/08/05/1570340341441.html)
-* [The 4th Week of ARTS:5-Longest Palindromic Substring](http://home.zxsilence.cn:29090/articles/2018/07/22/1570340342052.html)
 
 ---
 
