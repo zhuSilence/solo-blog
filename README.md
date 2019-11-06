@@ -26,20 +26,19 @@ ziyou（朱翔） 的个人博客
 * [看自己的文章被各大平台转载是一种什么样的体验](http://home.zxsilence.cn:29090/articles/2019/04/07/1570340332873.html)
 * [Swagger2边写代码边写文档](http://home.zxsilence.cn:29090/articles/2019/03/28/1570340332324.html)
 * [2019-03-26-加入Java Geek Tech](http://home.zxsilence.cn:29090/articles/2019/03/26/1570340333874.html)
-* [2019-03-26-加入Java Geek Tech](http://home.zxsilence.cn:29090/articles/2019/03/26/1571673931451.html)
 * [2019-03-24-01读《岛上书店》有感](http://home.zxsilence.cn:29090/articles/2019/03/24/1570340331455.html)
-* [2019-03-24-01读《岛上书店》有感](http://home.zxsilence.cn:29090/articles/2019/03/24/1571673928055.html)
 * [2018年终总结](http://home.zxsilence.cn:29090/articles/2018/12/29/1570340345013.html)
+* [The 16th Week of ARTS:Sliding Window Maximum_239](http://home.zxsilence.cn:29090/articles/2018/12/09/1570340347250.html)
+* [The 15th Week of ARTS:KthLargest Element in a Stream_703](http://home.zxsilence.cn:29090/articles/2018/12/01/1570340346710.html)
 
 ### 热门
 
 * [The 3rd Week of ARTS:4-Median of Two Sorted Arrays](http://home.zxsilence.cn:29090/articles/2018/07/14/1570340346034.html)
 * [物理机与虚拟机共享文件夹](http://home.zxsilence.cn:29090/articles/2017/01/08/1570340338523.html)
-* [The 16th Week of ARTS:Sliding Window Maximum_239](http://home.zxsilence.cn:29090/articles/2018/12/09/1570340347250.html)
 * [The 10th Week of ARTS:206-ReverseLinkedList](http://home.zxsilence.cn:29090/articles/2018/10/14/1570340347519.html)
 * [通过Spring上下文获取指定名称的Bean](http://home.zxsilence.cn:29090/articles/2016/12/28/1570340349379.html)
-* [物理机与虚拟机共享文件夹](http://home.zxsilence.cn:29090/articles/2017/01/08/1571673936591.html)
 * [MySQL int类型主键超出限制](http://home.zxsilence.cn:29090/articles/2017/07/15/1570340334400.html)
+* [记一次与Kafka大神的交流](http://home.zxsilence.cn:29090/articles/2017/10/27/1570340334613.html)
 * [网易云跟帖配置以及github.io博客配置域名](http://home.zxsilence.cn:29090/articles/2017/05/10/1570340334855.html)
 * [FFmpeg视频解码简单使用2](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340335456.html)
 * [常用算法笔记](http://home.zxsilence.cn:29090/articles/2018/11/02/1570340339479.html)
@@ -48,24 +47,20 @@ ziyou（朱翔） 的个人博客
 * [记一次线上Nginx响应超时问题](http://home.zxsilence.cn:29090/articles/2018/08/31/1570340349147.html)
 * [收获往往在努力背后](http://home.zxsilence.cn:29090/articles/2017/04/02/1571673933639.html)
 * [Kafka多线程消费多个topic案例](http://home.zxsilence.cn:29090/articles/2017/05/29/1571673936317.html)
-* [记一次与Kafka大神的交流](http://home.zxsilence.cn:29090/articles/2017/10/27/1570340334613.html)
 * [Spark初体验Word Count](http://home.zxsilence.cn:29090/articles/2017/05/24/1570340335178.html)
-* [收获往往在努力背后](http://home.zxsilence.cn:29090/articles/2017/04/02/1570340335807.html)
 * [FFmpeg视频解码简单使用](http://home.zxsilence.cn:29090/articles/2017/01/12/1570340336388.html)
 * [虚拟机中配置静态ip地址](http://home.zxsilence.cn:29090/articles/2017/03/28/1570340336965.html)
+* [《硅谷革命——成就苹果公司的疯狂往事》读后感二](http://home.zxsilence.cn:29090/articles/2017/10/22/1570340337252.html)
+* [读书感悟系列](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340337535.html)
+* [静态资源文件Hash缓存maven插件](http://home.zxsilence.cn:29090/articles/2017/07/31/1570340338735.html)
 
 ### 热议
 
 * [投资自己永远是最正确的事](http://home.zxsilence.cn:29090/articles/2017/11/03/1570340334130.html)
-* [《硅谷革命——成就苹果公司的疯狂往事》读后感一](http://home.zxsilence.cn:29090/articles/2017/10/21/1570340336079.html)
 * [心累源于没有好的设计](http://home.zxsilence.cn:29090/articles/2017/05/18/1570340336705.html)
-* [《硅谷革命——成就苹果公司的疯狂往事》读后感二](http://home.zxsilence.cn:29090/articles/2017/10/22/1570340337252.html)
-* [读书感悟系列](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340337535.html)
 * [Python学习笔记一](http://home.zxsilence.cn:29090/articles/2017/10/17/1570340337807.html)
 * [IDEA远程调试配置](http://home.zxsilence.cn:29090/articles/2017/03/29/1570340338081.html)
-* [静态资源文件Hash缓存maven插件](http://home.zxsilence.cn:29090/articles/2017/07/31/1570340338735.html)
 * [Linux的rm -rf](http://home.zxsilence.cn:29090/articles/2017/02/19/1570340338964.html)
-* [Redis批量导入数据——Pipe](http://home.zxsilence.cn:29090/articles/2017/03/27/1570340339190.html)
 * [The 5th Week of ARTS:8-String to Integer (atoi)](http://home.zxsilence.cn:29090/articles/2018/07/28/1570340340057.html)
 * [Spring Cloud学习笔记（一）](http://home.zxsilence.cn:29090/articles/2018/03/17/1570340340759.html)
 * [基于Github的Webhook实现发布代码后网站自动部署](http://home.zxsilence.cn:29090/articles/2018/07/16/1570340341122.html)
@@ -76,6 +71,11 @@ ziyou（朱翔） 的个人博客
 * [The 8th Week of ARTS:144-Binary Tree Preorder Traversal](http://home.zxsilence.cn:29090/articles/2018/08/21/1570340343083.html)
 * [个人博客Google AdSense接入](http://home.zxsilence.cn:29090/articles/2018/09/15/1570340343350.html)
 * [The 13th Week of ARTS:Valid Parentheses_20](http://home.zxsilence.cn:29090/articles/2018/11/18/1570340343656.html)
+* [Consul-template, Nginx实现Thrift Consul负载均衡](http://home.zxsilence.cn:29090/articles/2018/04/13/1570340344034.html)
+* [The 2nd Week Of ARTS:2-AddTwoNumbers](http://home.zxsilence.cn:29090/articles/2018/07/02/1570340344342.html)
+* [任务调度Azkaban(二)任务流](http://home.zxsilence.cn:29090/articles/2018/07/08/1570340344729.html)
+* [2018年新年新篇章](http://home.zxsilence.cn:29090/articles/2018/01/11/1570340345493.html)
+* [Hadoop学习（一）：之虚拟机集群搭建遇到的那些坑](http://home.zxsilence.cn:29090/articles/2018/04/01/1570340345751.html)
 
 ---
 
