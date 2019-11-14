@@ -10,6 +10,7 @@ ziyou（朱翔） 的个人博客
 
 ### 最新
 
+* [今晚的月色真美](http://home.zxsilence.cn:29090/articles/2019/11/12/1573574024094.html)
 * [我在 GitHub 上的开源项目](http://home.zxsilence.cn:29090/my-github-repos)
 * [我与微笑哥以及 Java 极客技术的前世今生](http://home.zxsilence.cn:29090/articles/2019/10/06/1570336005570.html)
 * [世界，你好！](http://home.zxsilence.cn:29090/hello-solo)
@@ -29,7 +30,6 @@ ziyou（朱翔） 的个人博客
 * [2019-03-24-01读《岛上书店》有感](http://home.zxsilence.cn:29090/articles/2019/03/24/1570340331455.html)
 * [2018年终总结](http://home.zxsilence.cn:29090/articles/2018/12/29/1570340345013.html)
 * [The 16th Week of ARTS:Sliding Window Maximum_239](http://home.zxsilence.cn:29090/articles/2018/12/09/1570340347250.html)
-* [The 15th Week of ARTS:KthLargest Element in a Stream_703](http://home.zxsilence.cn:29090/articles/2018/12/01/1570340346710.html)
 
 ### 热门
 
