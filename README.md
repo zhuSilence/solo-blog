@@ -10,6 +10,7 @@ ziyou（朱翔） 的个人博客
 
 ### 最新
 
+* [阅读《码农翻身》有感](http://home.zxsilence.cn:29090/停下来，思考，才是进步的本质。)
 * [今晚的月色真美](http://home.zxsilence.cn:29090/articles/2019/11/12/1573574024094.html)
 * [我在 GitHub 上的开源项目](http://home.zxsilence.cn:29090/my-github-repos)
 * [我与微笑哥以及 Java 极客技术的前世今生](http://home.zxsilence.cn:29090/articles/2019/10/06/1570336005570.html)
@@ -29,18 +30,20 @@ ziyou（朱翔） 的个人博客
 * [2019-03-26-加入Java Geek Tech](http://home.zxsilence.cn:29090/articles/2019/03/26/1570340333874.html)
 * [2019-03-24-01读《岛上书店》有感](http://home.zxsilence.cn:29090/articles/2019/03/24/1570340331455.html)
 * [2018年终总结](http://home.zxsilence.cn:29090/articles/2018/12/29/1570340345013.html)
-* [The 16th Week of ARTS:Sliding Window Maximum_239](http://home.zxsilence.cn:29090/articles/2018/12/09/1570340347250.html)
 
 ### 热门
 
 * [The 3rd Week of ARTS:4-Median of Two Sorted Arrays](http://home.zxsilence.cn:29090/articles/2018/07/14/1570340346034.html)
 * [物理机与虚拟机共享文件夹](http://home.zxsilence.cn:29090/articles/2017/01/08/1570340338523.html)
 * [个人博客Google AdSense接入](http://home.zxsilence.cn:29090/articles/2018/09/15/1570340343350.html)
+* [2018年新年新篇章](http://home.zxsilence.cn:29090/articles/2018/01/11/1570340345493.html)
+* [The 16th Week of ARTS:Sliding Window Maximum_239](http://home.zxsilence.cn:29090/articles/2018/12/09/1570340347250.html)
 * [The 10th Week of ARTS:206-ReverseLinkedList](http://home.zxsilence.cn:29090/articles/2018/10/14/1570340347519.html)
 * [MySQL int类型主键超出限制](http://home.zxsilence.cn:29090/articles/2017/07/15/1570340334400.html)
 * [常用算法笔记](http://home.zxsilence.cn:29090/articles/2018/11/02/1570340339479.html)
 * [The 14th Week of ARTS:LinkedListCycle_142](http://home.zxsilence.cn:29090/articles/2018/11/25/1570340339742.html)
 * [The 9th Week of ARTS:16-3Sum Closest](http://home.zxsilence.cn:29090/articles/2018/09/01/1570340340370.html)
+* [关于知识付费的那些事](http://home.zxsilence.cn:29090/articles/2018/05/11/1570340348510.html)
 * [通过Spring上下文获取指定名称的Bean](http://home.zxsilence.cn:29090/articles/2016/12/28/1570340349379.html)
 * [收获往往在努力背后](http://home.zxsilence.cn:29090/articles/2017/04/02/1571673933639.html)
 * [记一次与Kafka大神的交流](http://home.zxsilence.cn:29090/articles/2017/10/27/1570340334613.html)
@@ -50,16 +53,15 @@ ziyou（朱翔） 的个人博客
 * [FFmpeg视频解码简单使用](http://home.zxsilence.cn:29090/articles/2017/01/12/1570340336388.html)
 * [虚拟机中配置静态ip地址](http://home.zxsilence.cn:29090/articles/2017/03/28/1570340336965.html)
 * [《硅谷革命——成就苹果公司的疯狂往事》读后感二](http://home.zxsilence.cn:29090/articles/2017/10/22/1570340337252.html)
-* [读书感悟系列](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340337535.html)
-* [静态资源文件Hash缓存maven插件](http://home.zxsilence.cn:29090/articles/2017/07/31/1570340338735.html)
-* [2018年新年新篇章](http://home.zxsilence.cn:29090/articles/2018/01/11/1570340345493.html)
 
 ### 热议
 
 * [投资自己永远是最正确的事](http://home.zxsilence.cn:29090/articles/2017/11/03/1570340334130.html)
 * [心累源于没有好的设计](http://home.zxsilence.cn:29090/articles/2017/05/18/1570340336705.html)
+* [读书感悟系列](http://home.zxsilence.cn:29090/articles/2017/09/27/1570340337535.html)
 * [Python学习笔记一](http://home.zxsilence.cn:29090/articles/2017/10/17/1570340337807.html)
 * [IDEA远程调试配置](http://home.zxsilence.cn:29090/articles/2017/03/29/1570340338081.html)
+* [静态资源文件Hash缓存maven插件](http://home.zxsilence.cn:29090/articles/2017/07/31/1570340338735.html)
 * [Linux的rm -rf](http://home.zxsilence.cn:29090/articles/2017/02/19/1570340338964.html)
 * [The 5th Week of ARTS:8-String to Integer (atoi)](http://home.zxsilence.cn:29090/articles/2018/07/28/1570340340057.html)
 * [Spring Cloud学习笔记（一）](http://home.zxsilence.cn:29090/articles/2018/03/17/1570340340759.html)
@@ -74,8 +76,6 @@ ziyou（朱翔） 的个人博客
 * [The 2nd Week Of ARTS:2-AddTwoNumbers](http://home.zxsilence.cn:29090/articles/2018/07/02/1570340344342.html)
 * [任务调度Azkaban(二)任务流](http://home.zxsilence.cn:29090/articles/2018/07/08/1570340344729.html)
 * [Hadoop学习（一）：之虚拟机集群搭建遇到的那些坑](http://home.zxsilence.cn:29090/articles/2018/04/01/1570340345751.html)
-* [The 7th Week of ARTS:94-Binary Tree Inorder Traversal](http://home.zxsilence.cn:29090/articles/2018/08/11/1570340346389.html)
-* [The 15th Week of ARTS:KthLargest Element in a Stream_703](http://home.zxsilence.cn:29090/articles/2018/12/01/1570340346710.html)
 
 ---
 
